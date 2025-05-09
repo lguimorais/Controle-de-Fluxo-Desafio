@@ -10,5 +10,5 @@ O objetivo é praticar os conceitos de **estrutura de decisão**, **exceções p
 
 O sistema deve receber dois parâmetros inteiros via terminal:
 
-- Se o **segundo parâmetro for maior que o primeiro**, o programa calcula a diferença entre eles e **imprime no console** mensagens numeradas, como:
+- Se o **segundo parâmetro for maior que o primeiro**, o programa calcula a diferença entre eles e **imprime no console** mensagens numeradas.
 
